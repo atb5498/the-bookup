@@ -1,0 +1,184 @@
+body {
+  font-family: 'Roboto', sans-serif;
+  background-color: #EEE9E2;
+}
+
+.jumbotron {
+  height: 350px;
+  background-image: url("./img/books-header.jpg");
+  background-size: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  margin-bottom: 35px;
+}
+
+#signup-jumbotron {
+  padding-top: 0;
+  height: 350px;
+}
+
+#form-button {
+  background-color: #6A665A;
+  color: white;
+  border-color: #6A665A;
+  font-weight: bold;
+}
+
+#form-button:hover {
+  background-color: #302C23;
+}
+
+.login-signup {
+  color: #6A665A;
+  font-weight: bold;
+}
+
+.login-signup:hover {
+  color: #302C23;
+}
+
+#post-jumbotron {
+  padding-top: 0;
+}
+
+h1 {
+  text-align: center;
+  font-family: 'Abril Fatface', serif;
+  color: white;
+  margin-top: 25px;
+}
+
+.lead {
+  text-align: center;
+  margin-bottom: 50px;
+  color: white;
+}
+
+#search-button {
+  background-color: #6A665A;
+  color: white;
+  border-color: #6A665A;
+  font-weight: bold;
+}
+
+#search-button:hover {
+  background-color: #302C23;
+}
+
+.book-search {
+  margin-bottom: 50px;
+}
+
+.card {
+  border: none;
+  border-radius: 0;
+}
+
+.card-body {
+  padding: 0;
+}
+
+#card-title {
+  font-weight: bold;
+}
+
+.card-img {
+  border-radius: 0;
+  height: 100%;
+  width: auto;
+}
+
+.list-group-item {
+  padding-top: .6rem;
+  padding-bottom: .6rem;
+}
+
+.user-input {
+  padding-top: .2rem;
+  padding-bottom: .2rem;
+  padding-left: 0;
+  padding-right: 0;
+}
+
+#inputGroupSelect01 {
+  padding-left: 1.25rem;
+  border: none;
+}
+
+#price-input {
+  padding-left: 1.25rem;
+  border: none;
+}
+
+#contact-input {
+  padding-left: 1.25rem;
+  border: none;
+}
+
+#submit-button {
+  background-color: #6A665A;
+  color: white;
+  border: none;
+  border-radius: 0;
+  font-weight: bold;
+  width: 100%;
+}
+
+#submit-button:hover {
+  background-color: #302C23;
+}
+
+.search-form {
+  margin-bottom: 50px;
+}
+
+#title-search-btn {
+  background-color: #6A665A;
+  color: white;
+  border-color: #6A665A;
+  font-weight: bold;
+}
+
+#title-search-btn:hover {
+  background-color: #302C23;
+}
+
+#author-search-btn {
+  background-color: #7F553F;
+  color: white;
+  border-color: #7F553F;
+  font-weight: bold;
+}
+
+#author-search-btn:hover {
+  background-color: #513729;
+}
+
+#isbn-search-btn {
+  background-color: #7F6A4C;
+  color: white;
+  border-color: #7F6A4C;
+  font-weight: bold;
+}
+
+#isbn-search-btn:hover {
+  background-color: #514431;
+}
+
+#delete-button {
+  background-color: #C4B1A7;
+  color: white;
+  border: none;
+  font-weight: bold;
+  border-radius: 0;
+  width: 100%;
+}
+
+#delete-button:hover {
+  background-color: #7F553F;
+  color: white;
+}
+
+.list {
+  margin-bottom: 50px;
+}

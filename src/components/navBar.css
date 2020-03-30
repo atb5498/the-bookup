@@ -1,0 +1,46 @@
+#nameTag {
+    font-family: 'Abril Fatface', cursive;
+}
+
+.navbar-dark .navbar-toggler {
+    border-color: rgba(255, 255, 255, 1);
+}
+
+.navbar-toggler:focus {
+    outline: none;
+}
+
+a.nav-link {
+    border-bottom: 1px solid white;
+}
+
+.nav-item {
+    text-align: right;
+    font-weight: bold;
+}
+
+.nav-item:hover .nav-link:hover {
+    background-color: white;
+    color: grey;
+}
+
+#sign-out {
+    background: none;
+    border: none;
+    color: #D1D1D1;
+    padding-left: none;
+    width: 100%;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: right;
+    font-weight: bold;
+}
+
+#sign-out:focus {
+    outline: none;
+}
+
+#sign-out:hover {
+    background-color: white;
+    color: grey;
+}
